@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # kai
-=======
+
 # 基于vue2+vue-router+webpack+less+es6仿美团外卖项目
 
 > A Vue.js project
@@ -55,4 +55,4 @@ npm run build
 - 登陆页
 - 订单页
 - 评价页下拉刷新
->>>>>>> kai
+
