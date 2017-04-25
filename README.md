@@ -1,7 +1,7 @@
 
 # kai
 
-# 基于vue2+vue-router+webpack+less+es6仿美团外卖项目
+# 基于vue2仿美团外卖项目
 
 
 首页
